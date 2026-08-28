@@ -1,4 +1,4 @@
-# Portfolio — Ismaila Diakite (v2)
+# Portfolio — Ismaila Diakite 
 
 Version design améliorée : plus premium, plus moderne et plus proche d'un portfolio Data professionnel.
 
